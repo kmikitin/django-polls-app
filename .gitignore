@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pychache__
+/static
+.DS_Store
+*.egg-info
+/dist
